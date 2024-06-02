@@ -1396,7 +1396,3 @@ const Cocktail = () => {
 ```
 /* /index.html 200
 ```
-#   M i x M a s t e r  
- #   M i x M a s t e r  
- #   M i x M a s t e r  
- 
