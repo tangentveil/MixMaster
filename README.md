@@ -1,6 +1,6 @@
-#### Figma File
+## [Source](https://github.com/john-smilga/react-course-v3/tree/main/09-mixmaster)
 
-[MixMaster Design](https://www.figma.com/community/file/1255860657910062828)
+## [Deployed Website](https://mixmaster-y69e.onrender.com)
 
 ## Steps
 
@@ -1396,7 +1396,10 @@ const Cocktail = () => {
 ```
 /* /index.html 200
 ```
-#   M i x M a s t e r  
- #   M i x M a s t e r  
- #   M i x M a s t e r  
+#   M i x M a s t e r 
+ 
+ #   M i x M a s t e r 
+ 
+ #   M i x M a s t e r 
+ 
  
