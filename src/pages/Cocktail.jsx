@@ -5,7 +5,7 @@ import Wrapper from "../assets/wrappers/CocktailPage";
 
 import { useQuery } from "@tanstack/react-query";
 
-const singleCocktailUrl = `https://www.thecocktaildb.com/api/json/v1/1/lookup.php?i=`;
+const singleCocktailUrl = `https://www.thecocktaildb.com/api/json/v1/1/lookup.php?i=a`;
 
 const singleCocktailQuery = (id) => {
   return {
